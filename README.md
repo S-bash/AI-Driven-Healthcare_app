@@ -145,13 +145,13 @@ We welcome contributions! To contribute:
 
 ## 🙋 Author
 
-Developed by **@pradumya2005**
+Developed by **@S-bash**
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/pradumya2005)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/S-bash)
   
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:salunkepradumya@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:sanskar3505@gmail.com)
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pradumya-salunke-7582b428a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanskar-behera-sb3505/)
 
 ---
 
